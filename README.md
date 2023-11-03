@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on TAMSAN Pte. Ltd.
-- 🌱 I’m currently learning **Typescript, Next.js, Node.js**
 - 💬 Ask me about **Typescript, Next.js**
 - 📫 How to reach me: natsmy.1211@gmail.com
+- 🎨 [Portfolio](https://www.notion.so/natsumih/Natsumi-H-s-Portfolio-b60b2867b5aa4ebea9c7cdee04d628c1)
