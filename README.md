@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there my name is Natsumi 👋
 
 - 🔭 I’m currently working on TAMSAN Pte. Ltd.
 - 💬 Ask me about **Typescript, React, Next.js, SQL/No-SQL DB**
